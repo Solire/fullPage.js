@@ -1,9 +1,10 @@
 {
-  "name": "fullpage.js",
+  "name": "fullpage.solire.js",
   "version": "1.6.5",
   "homepage": "http://alvarotrigo.com/fullPage/",
   "authors": [
-    "Alvaro Trigo https://github.com/alvarotrigo"
+    "Alvaro Trigo https://github.com/alvarotrigo",
+    "Solire https://github.com/Solire"
   ],
   "description": "Create full screen pages fast and simple",
   "main": "jquery.fullPage.js",
