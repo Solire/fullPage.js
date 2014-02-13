@@ -10,7 +10,7 @@
 	$.fn.fullpage = function(options) {
 		// Create some defaults, extending them with any options that were provided
 		options = $.extend({
-            'initalSlide' : 0,
+			'initialSlide' : 0,
 			"verticalCentered" : true,
 			'resize' : true,
 			'slidesColor' : [],
